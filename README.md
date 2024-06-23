@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Manash👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=manashb-ai&color=blue)
 
 ## About Me
 
@@ -35,7 +35,7 @@ where I can leverage my skills to build intelligent systems and solve real-world
 
 ## 🚀 Projects
 
-### Loading...
+### Loading soon...
 
 ## 📫 How to reach me
 
