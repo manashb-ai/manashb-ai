@@ -41,7 +41,3 @@ where I can leverage my skills to build intelligent systems and solve real-world
 
 [![Linkedin Badge](https://img.shields.io/badge/-manashbh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manashbh/)](https://www.linkedin.com/in/manashbh/)
 [![Gmail Badge](https://img.shields.io/badge/-bhele.manash@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bhele.manash@gmail.com)](mailto:bhele.manash@gmail.com)
-
-## ⚡ Fun fact
-
-I love keeping up with the latest advancements in AI and often try to implement cutting-edge research in my projects.
