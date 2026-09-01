@@ -30,8 +30,8 @@ where I can leverage my skills to build intelligent systems and solve real-world
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=manashb-ai&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=manashb-ai&layout=compact&theme=radical)
+![GitHub Stats](https://github-stats-extended-frontend-us9k.vercel.app/api?username=manashb-ai&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended-frontend-us9k.vercel.app/api/top-langs/?username=manashb-ai&layout=compact&theme=radical)
 
 
 
